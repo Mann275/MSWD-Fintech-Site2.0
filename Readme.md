@@ -203,4 +203,3 @@ project/
 
 ---
 
-This documentation covers the main requirements of your project. Let me know if you need help with implementation or any specific section!
